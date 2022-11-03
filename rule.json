@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "zhongzisou",
     "name": "种子搜",
@@ -37,8 +37,8 @@
   {
     "id": "btsow",
     "name": " BTSOW ",
-    "url": "https://btsow.click",
-    "icon": "https://btsow.click/favicon.ico",
+    "url": "https://btsow.quest",
+    "icon": "https://btsow.questfavicon.ico",
     "paths": {
       "preset": "/search/{k}"
     },
